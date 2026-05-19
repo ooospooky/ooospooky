@@ -26,7 +26,7 @@ I build products with React + TypeScript, focusing on:
 
 React / TypeScript / Next.js / Vite
 
-TanStack Query / GraphQL
+TanStack Query / RTK Query /GraphQL
 
 Tailwind / SCSS  
 
@@ -34,5 +34,6 @@ Tailwind / SCSS
 
 ## Links
 
-Portfolio → https://ooospooky.github.io/dev-portfolio/  
+Portfolio → https://johnny-tai-portfolio.vercel.app/
+
 Email → bm414148@gmail.com  
