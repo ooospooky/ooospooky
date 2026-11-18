@@ -34,6 +34,6 @@ Tailwind / SCSS
 
 ## Links
 
-Portfolio → https://johnny-tai-portfolio.vercel.app/
+Portfolio → https://johnnytai.com/
 
-Email → johnny.tai.dev@gmail.com  
+Email → johnny@johnnytai.com
